@@ -14,7 +14,6 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
-      - 'sou/*.*'
   push:
     branches:
       - main
@@ -23,7 +22,6 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
-      - 'sou/*.*'
 #  workflow_dispatch:
 #  schedule:
 #    - cron: '00 23 * * 0'
