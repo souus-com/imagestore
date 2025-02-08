@@ -14,6 +14,7 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
+      - 'sou/*.*'
   push:
     branches:
       - main
