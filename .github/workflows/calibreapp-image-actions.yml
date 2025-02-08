@@ -23,6 +23,7 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
+      - 'sou/*.*'
 #  workflow_dispatch:
 #  schedule:
 #    - cron: '00 23 * * 0'
